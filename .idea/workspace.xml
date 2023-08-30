@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="300fcd87-3062-418b-a1c2-1e3fdd8c1475" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/.idea/deploymentTargetDropDown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/androidTest/java/com/example/inicial/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/java/com/example/inicial/activity/FormularioProdutoActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/java/com/example/inicial/activity/ListaProdutosActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/java/com/example/inicial/dao/ProdutosDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/java/com/example/inicial/model/Produto.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/java/com/example/inicial/ui/recyclerview/adapter/ListaProdutosAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/drawable/baseline_add_24.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/layout/activity_formulario_produto.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/layout/activity_formulario_produto.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/layout/activity_lista_produtos.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/layout/produto_item.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/layout/produto_item.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/values-night/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/values/themes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/app/src/test/java/com/example/inicial/ExampleUnitTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Android com Kotlin personalize o seu app/settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2UihXSBuRZ5MVQIzmTuKUgpOTTk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "C:/Users/loure/Documents/Estudo-Kotlin/Android com Kotlin personalize o seu app"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="300fcd87-3062-418b-a1c2-1e3fdd8c1475" name="Changes" comment="" />
+      <created>1693428348642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693428348642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -29,9 +29,14 @@ class ListaProdutosAdapter(
             val descricao = binding.produtoItemDescricao
             descricao.text = produto.descricao
             val valor = binding.produtoItemValor
-            var currencyInstance = NumberFormat.getCurrencyInstance(Locale("pt", "br"))
-            valor.text = produto.valor.toString() // Converta o BigDecimal para String
+            val valorEmMoeda: String =formataParaMoedaBr(produto)
+            valor.text = valorEmMoeda
 
+        }
+        private fun formataParaMoedaBr(produto:Produto): String {
+            val formatador = NumberFormat
+                .getCurrencyInstance(Locale("pt", "br"))
+            return formatador.format(produto.valor)
         }
     }
 

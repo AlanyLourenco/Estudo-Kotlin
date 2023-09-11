@@ -1,7 +1,6 @@
 package br.com.alura.orgs.ui.activity
 
 import android.os.Bundle
-import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import br.com.alura.orgs.dao.ProdutosDao
 import br.com.alura.orgs.databinding.ActivityFormularioProdutoBinding
@@ -37,18 +36,17 @@ class FormularioProdutoActivity : AppCompatActivity() {
         val descricao = campoDescricao.text.toString()
         val campoValor = binding.activityFormularioProdutoValor
         val valorEmTexto = campoValor.text.toString()
-
-        val valor = try {
-            BigDecimal(valorEmTexto)
-        } catch (e: NumberFormatException) {
-            e.printStackTrace()
+        val valor = if (valorEmTexto.isBlank()) {
             BigDecimal.ZERO
+        } else {
+            BigDecimal(valorEmTexto)
         }
 
         return Produto(
             nome = nome,
             descricao = descricao,
-            valor = valor.toString() // Converta o BigDecimal de volta para String
+            valor = valor
         )
     }
+
 }

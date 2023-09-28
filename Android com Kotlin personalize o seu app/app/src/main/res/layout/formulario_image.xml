@@ -23,6 +23,7 @@
             android:id="@+id/formulario_image_botao_carregar"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+
             android:text="Carregar"
             app:icon="@drawable/ic_action_refresh"
             app:layout_constraintStart_toStartOf="parent"

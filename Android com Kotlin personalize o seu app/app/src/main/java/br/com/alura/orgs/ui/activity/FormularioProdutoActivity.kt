@@ -21,8 +21,8 @@ class FormularioProdutoActivity : AppCompatActivity() {
         configuraBotaoSalvar()
         binding.activityFormularioProdutoImage.setOnClickListener {
             AlertDialog.Builder(this)
-                .setView(R.layout.test)
-                .setPositiveButton("Fechar Caixa") { _, _ ->
+                .setView(R.layout.formulario_image)
+                .setPositiveButton("Confirmar") { _, _ ->
 
                 }
                 .setNegativeButton("Cancelar"){_,_, ->
